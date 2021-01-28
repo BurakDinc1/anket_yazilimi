@@ -1,0 +1,2 @@
+\AileGelirNotu\AileGelirNotu\bin\Debug
+klasörünün altýndaki exe dosyasýyla çalýþtýrabilir xml dosyalarýný notpad ile açýp veriler üzerinde oynama yapabilirsin.
